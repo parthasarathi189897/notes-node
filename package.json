@@ -2,7 +2,7 @@
   "name": "notes-node",
   "version": "1.0.0",
   "description": "nodejs application for notes",
-  "main": "src/index.js",
+  "main": "src/app.js",
   "scripts": {
     "start": "nodemon src/index.js localhost 8080"
   },
